@@ -1,4 +1,7 @@
-package com.example.bankvault;
+package com.example.bankvault.model;
+
+import com.example.bankvault.exception.InsufficientFundsException;
+import com.example.bankvault.exception.VaultFrozenException;
 
 import java.util.ArrayList;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package com.example.bankvault;
+package com.example.bankvault.exception;
 
 public class InsufficientFundsException extends RuntimeException {
 

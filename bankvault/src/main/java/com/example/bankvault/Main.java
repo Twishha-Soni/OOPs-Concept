@@ -1,5 +1,9 @@
 package com.example.bankvault;
 
+import com.example.bankvault.exception.InsufficientFundsException;
+import com.example.bankvault.exception.VaultFrozenException;
+import com.example.bankvault.model.BankVault;
+
 public class Main {
 
     public static void main(String[] args) {

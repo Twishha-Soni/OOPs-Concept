@@ -1,4 +1,4 @@
-package com.example.bankvault;
+package com.example.bankvault.exception;
 
 public class VaultFrozenException extends RuntimeException {
 

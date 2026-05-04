@@ -56,5 +56,3 @@ caller.
 **JPA-managed entities** follow the same idea for primary keys. The `id` field
 is generated and controlled by the persistence layer. You never call
 `setId()` in application code — the framework owns that invariant.
-
-## Project Structure
